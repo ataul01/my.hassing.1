@@ -1,0 +1,46 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+    font-size: 20px;
+    color: rgb(87, 85, 85);
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 70px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 6%;
+    margin-top: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.text{
+    margin-top: 15%;
+}
+.orange-color{
+    color: salmon
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 153, 0), tomato);
+    color: aliceblue;
+    padding: 15px 25px;
+    border-radius: 25px;
+    font-size: 15px;
+    font-weight: 550;
+}
+.link-go{
+    margin-top: 50px
+}
+.about-me{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat:no-repeat;
+}
